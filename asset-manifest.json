@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atv-travis/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/atv-travis/static/js/main.718809bf.chunk.js",
+    "main.js.map": "/atv-travis/static/js/main.718809bf.chunk.js.map",
+    "runtime-main.js": "/atv-travis/static/js/runtime-main.b02342a7.js",
+    "runtime-main.js.map": "/atv-travis/static/js/runtime-main.b02342a7.js.map",
+    "static/js/2.bae72ccb.chunk.js": "/atv-travis/static/js/2.bae72ccb.chunk.js",
+    "static/js/2.bae72ccb.chunk.js.map": "/atv-travis/static/js/2.bae72ccb.chunk.js.map",
+    "static/js/3.4b31ca85.chunk.js": "/atv-travis/static/js/3.4b31ca85.chunk.js",
+    "static/js/3.4b31ca85.chunk.js.map": "/atv-travis/static/js/3.4b31ca85.chunk.js.map",
+    "index.html": "/atv-travis/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/atv-travis/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bae72ccb.chunk.js.LICENSE.txt": "/atv-travis/static/js/2.bae72ccb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/atv-travis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b02342a7.js",
+    "static/js/2.bae72ccb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.718809bf.chunk.js"
+  ]
+}
